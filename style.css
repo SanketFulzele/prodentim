@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700;800;900;1000&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+
+body {
+    scroll-behavior: smooth;
+}
+
+
+.banner-box {
+    background-image: url("img/strawberry-bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover; /* This makes the image cover the entire div */
+    width: 100%; /* You may need to adjust this */
+    height: auto; /* You may need to adjust this */
+    padding: 50px 20px;
+}
+
+.age-img {
+    width: 300px;
+    height: 350px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
